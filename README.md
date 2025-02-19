@@ -1,3 +1,3 @@
-# LAB. Des. BD III
+# Lab. Des. BD III
 
 Atividades realizadas em sala de aula.
